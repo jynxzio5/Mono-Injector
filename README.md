@@ -1,6 +1,6 @@
 # Mono Injector
 
-Open-source injector used with the Gamble With Your Friends menu.
+Open-source injector source for Gamble With Your Friends. This repo contains the loader that launches the menu DLL into the game process, while the menu itself lives in the companion [Gamble-with-friends-Menu](https://github.com/jynxzio5/Gamble-with-friends-Menu) repo.
 
 ## What it is
 
